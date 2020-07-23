@@ -12,7 +12,6 @@ cache:
   - node_modules # 依赖缓存的目录
 install:
  - npm install -g gitbook-cli # 安装编译工具
- - npm install react-router-dom --save
 script:
  - npm install
  - npm run build
