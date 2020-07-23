@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router,Route} from 'react-router-dom';
+import { HashRouter as Router,Route} from 'react-router-dom';
 import FileField from './FileField';
 import Showfiles from './showfiles';
 import Showcontent from './showcontent';
